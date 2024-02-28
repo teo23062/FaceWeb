@@ -7,9 +7,8 @@ function trist()
     {
     document.getElementById('bilde').src="./img/trist.jpg";    
     }
-<<<<<<< HEAD
+
 // utvikler 2
-//
     function spro()
     {
     document.getElementById('bilde').src="./img/spro.jpg";    
@@ -25,9 +24,6 @@ function random ()
     var tekst 
     
 }
-    
-=======
-    
 
 // Utvikler 1
 function glad()
@@ -53,4 +49,3 @@ function tilfeldig() {
     }
     document.getElementById("bilde").src = bilder[i];
 }
->>>>>>> c6b0f9b7c3f12f80a85b0ba69936e0559ae143dc
